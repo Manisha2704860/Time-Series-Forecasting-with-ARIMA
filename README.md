@@ -35,7 +35,7 @@ To practically learn and demonstrate time series forecasting using one of the mo
 
 - scikit-learn for calculating evaluation metrics (RMSE).
 
-# Installation command:
+# Installation command :
 
 
      pip install pandas numpy matplotlib statsmodels scikit-learn
